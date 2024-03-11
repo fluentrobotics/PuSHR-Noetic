@@ -1,15 +1,15 @@
 [submodule "mushr_coordination"]
 	path = mushr_coordination
 	url = https://github.com/fluentrobotics/mushr_coordination
-	branch = clcbs_integration
+	branch = noetic-fluent
 [submodule "mushr_pixelart_mpc"]
 	path = mushr_pixelart_mpc
 	url = https://github.com/fluentrobotics/mushr_pixelart_mpc
-	branch = devel
+	branch = noetic-fluent
 [submodule "clcbs_ros"]
 	path = clcbs_ros
 	url = https://github.com/fluentrobotics/clcbs_ros
-	branch = devel
+	branch = noetic-fluent
 [submodule "limit_surface"]
 	path = limit_surface
 	url = https://github.com/schmittlema/limit_surface
